@@ -4,5 +4,5 @@
 [db_server]
 10.0.0.241
 
-[workstation]
+[workstations]
 10.0.0.240
